@@ -8,6 +8,7 @@
 - **pandas**
 - **seaborn**
 - **plotly.express**
+- **numpy** 
 
 **Вывод**
 
