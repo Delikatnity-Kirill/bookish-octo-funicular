@@ -10,11 +10,9 @@
 ### Использованные библиотеки и методы:
 - **pandas**
 - **numpy**
-- **matplotlib.pyplot**
 - **scipy.stats**
 - **seaborn**
 - **plotly.express**
-- **plotly.graph_objects**
 
 **Вывод**
 
