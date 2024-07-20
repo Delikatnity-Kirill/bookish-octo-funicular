@@ -1,5 +1,3 @@
-Конечно! Вот таблица с добавленными библиотеками:
-
 | №   | Название проекта | О чем проект               | Используемые библиотеки |
 |-----|------------------|-----------------------------|-------------------------|
 | 1   | [Исследование объявлений о продаже квартир](https://github.com/Delikatniy/bookish-octo-funicular/blob/main/1.%20Real%20estate/EDA.ipynb) | Оценка рыночной стоимости квартир и их характеристик на основе данных Яндекс.Недвижимость. | pandas, matplotlib.pyplot, seaborn |
@@ -10,5 +8,3 @@
 | 6   | [Исследование рынка общественного питания](https://github.com/Delikatniy/bookish-octo-funicular/blob/main/6.%20Food%20market%20analysis/Food_market_analysis.ipynb) | Анализ рынка общественного питания на основе открытых данных и подготовка презентации. | pandas, searborn, plotly.express |
 | 7   | [Прогнозирование оттока клиентов банка](https://github.com/Delikatniy/bookish-octo-funicular/blob/main/7.%20Bank%20churn/final_project.ipynb) | Анализ данных о клиентах банка для выявления сегментов с высоким риском оттока и разработки стратегий удержания. | pandas, matplotlib.pyplot, seaborn, numpy, plotly.express |
 | 8   | [A/B-тестирование](https://github.com/Delikatniy/bookish-octo-funicular/blob/main/8.%20Final%20project%20AB%20test/AB_test.ipynb) | Оценка корректности и результатов A/B тестирования. | pandas, matplotlib.pyplot, seaborn, plotly.graph_objects |
-
-Если нужно что-то уточнить или изменить, дайте знать!
